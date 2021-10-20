@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kenneth and i live in Norway
-- 📫 You can reach me at kenneth@kgdi.no
+- 📫 You can reach me at kenneth@moonde.no
 
 <!---
 KGDI01/KGDI01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
